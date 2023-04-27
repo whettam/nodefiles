@@ -1,0 +1,15 @@
+{
+  "name": "introtonode",
+  "version": "1.0.0",
+  "description": "Intro to Node project! I am so excited and will listen to my teachers every word!!!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matt",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
